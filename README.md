@@ -7,16 +7,17 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 4 | 2 | 2 | 0 |
+| LeetCode | 5 | 3 | 2 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **4** | **2** | **2** | **0** |
+| **Total** | **5** | **3** | **2** | **0** |
 
 ## Solved Problems
 
 | # | Problem | Platform | Difficulty | Language | Code |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/234_PalindromeLinkedList.java) |
-| 2 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/876_MiddleOfTheLinkedList.java) |
-| 3 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/143_ReorderList.java) |
-| 4 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/2095_DeleteTheMiddleNodeOfALinkedList.java) |
+| 1 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/125_ValidPalindrome.java) |
+| 2 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/234_PalindromeLinkedList.java) |
+| 3 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/876_MiddleOfTheLinkedList.java) |
+| 4 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/143_ReorderList.java) |
+| 5 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/2095_DeleteTheMiddleNodeOfALinkedList.java) |
 <!-- COMMITDSA_END -->

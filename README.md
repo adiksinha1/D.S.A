@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 10 | 6 | 4 | 0 |
+| LeetCode | 11 | 6 | 4 | 1 |
 | GeeksforGeeks | 1 | 0 | 1 | 0 |
-| **Total** | **11** | **6** | **5** | **0** |
+| **Total** | **12** | **6** | **5** | **1** |
 
 ## Solved Problems
 
@@ -25,5 +25,6 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 8 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/143_ReorderList.java) |
 | 9 | [148. Sort List](https://leetcode.com/problems/sort-list/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/148_SortList.java) |
 | 10 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/2095_DeleteTheMiddleNodeOfALinkedList.java) |
-| 11 | [Find length of Loop](https://practice.geeksforgeeks.org/problems/find-length-of-loop/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FindLengthOfLoop.java) |
+| 11 | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/273_IntegerToEnglishWords.java) |
+| 12 | [Find length of Loop](https://practice.geeksforgeeks.org/problems/find-length-of-loop/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FindLengthOfLoop.java) |
 <!-- COMMITDSA_END -->

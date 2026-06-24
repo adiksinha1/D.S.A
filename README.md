@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
 | LeetCode | 8 | 5 | 3 | 0 |
-| GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **8** | **5** | **3** | **0** |
+| GeeksforGeeks | 1 | 0 | 1 | 0 |
+| **Total** | **9** | **5** | **4** | **0** |
 
 ## Solved Problems
 
@@ -23,4 +23,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 6 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/142_LinkedListCycleII.java) |
 | 7 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/143_ReorderList.java) |
 | 8 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/2095_DeleteTheMiddleNodeOfALinkedList.java) |
+| 9 | [Find length of Loop](https://practice.geeksforgeeks.org/problems/find-length-of-loop/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FindLengthOfLoop.java) |
 <!-- COMMITDSA_END -->

@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
 | LeetCode | 12 | 7 | 4 | 1 |
-| GeeksforGeeks | 2 | 0 | 2 | 0 |
-| **Total** | **14** | **7** | **6** | **1** |
+| GeeksforGeeks | 3 | 0 | 3 | 0 |
+| **Total** | **15** | **7** | **7** | **1** |
 
 ## Solved Problems
 
@@ -29,4 +29,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 12 | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/273_IntegerToEnglishWords.java) |
 | 13 | [Count Matching Subsequences](https://practice.geeksforgeeks.org/problems/find-number-of-times-a-string-occurs-as-a-subsequence3020/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_CountMatchingSubsequences.java) |
 | 14 | [Find length of Loop](https://practice.geeksforgeeks.org/problems/find-length-of-loop/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FindLengthOfLoop.java) |
+| 15 | [Kth Smallest](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_KthSmallest.java) |
 <!-- COMMITDSA_END -->

@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
 | LeetCode | 12 | 7 | 4 | 1 |
-| GeeksforGeeks | 3 | 0 | 3 | 0 |
-| **Total** | **15** | **7** | **7** | **1** |
+| GeeksforGeeks | 4 | 0 | 4 | 0 |
+| **Total** | **16** | **7** | **8** | **1** |
 
 ## Solved Problems
 
@@ -30,4 +30,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 13 | [Count Matching Subsequences](https://practice.geeksforgeeks.org/problems/find-number-of-times-a-string-occurs-as-a-subsequence3020/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_CountMatchingSubsequences.java) |
 | 14 | [Find length of Loop](https://practice.geeksforgeeks.org/problems/find-length-of-loop/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FindLengthOfLoop.java) |
 | 15 | [Kth Smallest](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_KthSmallest.java) |
+| 16 | [Smallest Positive Missing](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SmallestPositiveMissing.java) |
 <!-- COMMITDSA_END -->

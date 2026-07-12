@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 42 | 21 | 19 | 2 |
+| LeetCode | 43 | 22 | 19 | 2 |
 | GeeksforGeeks | 7 | 2 | 5 | 0 |
-| **Total** | **49** | **23** | **24** | **2** |
+| **Total** | **50** | **24** | **24** | **2** |
 
 ## Solved Problems
 
@@ -21,47 +21,48 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 4 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/110_BalancedBinaryTree.java) |
 | 5 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/121_BestTimeToBuyAndSellStock.java) |
 | 6 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/125_ValidPalindrome.java) |
-| 7 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/141_LinkedListCycle.java) |
-| 8 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/144_BinaryTreePreorderTraversal.java) |
-| 9 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/145_BinaryTreePostorderTraversal.java) |
-| 10 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/160_IntersectionOfTwoLinkedLists.java) |
-| 11 | [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/1967_NumberOfStringsThatAppearAsSubstringsInWord.java) |
-| 12 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/206_ReverseLinkedList.java) |
-| 13 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/21_MergeTwoSortedLists.java) |
-| 14 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/234_PalindromeLinkedList.java) |
-| 15 | [3492. Maximum Containers on a Ship](https://leetcode.com/problems/maximum-containers-on-a-ship/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/3492_MaximumContainersOnAShip.java) |
-| 16 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/543_DiameterOfBinaryTree.java) |
-| 17 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/700_SearchInABinarySearchTree.java) |
-| 18 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/83_RemoveDuplicatesFromSortedList.java) |
-| 19 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/876_MiddleOfTheLinkedList.java) |
-| 20 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/88_MergeSortedArray.java) |
-| 21 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/94_BinaryTreeInorderTraversal.java) |
-| 22 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/1011_CapacityToShipPackagesWithinDDays.java) |
-| 23 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/102_BinaryTreeLevelOrderTraversal.java) |
-| 24 | [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/1248_CountNumberOfNiceSubarrays.java) |
-| 25 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/128_LongestConsecutiveSequence.java) |
-| 26 | [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/1358_NumberOfSubstringsContainingAllThreeCharacters.java) |
-| 27 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/142_LinkedListCycleII.java) |
-| 28 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/143_ReorderList.java) |
-| 29 | [148. Sort List](https://leetcode.com/problems/sort-list/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/148_SortList.java) |
-| 30 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/152_MaximumProductSubarray.java) |
-| 31 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/155_MinStack.java) |
-| 32 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/162_FindPeakElement.java) |
-| 33 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/199_BinaryTreeRightSideView.java) |
-| 34 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/2095_DeleteTheMiddleNodeOfALinkedList.java) |
-| 35 | [2126. Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/2126_DestroyingAsteroids.java) |
-| 36 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/238_ProductOfArrayExceptSelf.java) |
-| 37 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/424_LongestRepeatingCharacterReplacement.java) |
-| 38 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/53_MaximumSubarray.java) |
-| 39 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/74_SearchA2DMatrix.java) |
-| 40 | [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/930_BinarySubarraysWithSum.java) |
-| 41 | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/273_IntegerToEnglishWords.java) |
-| 42 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/42_TrappingRainWater.java) |
-| 43 | [Generate Grey Code Sequences](https://practice.geeksforgeeks.org/problems/generate-grey-code-sequences/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_GenerateGreyCodeSequences.java) |
-| 44 | [Unique Number I](https://practice.geeksforgeeks.org/problems/find-unique-number/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_UniqueNumberI.java) |
-| 45 | [Count Matching Subsequences](https://practice.geeksforgeeks.org/problems/find-number-of-times-a-string-occurs-as-a-subsequence3020/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_CountMatchingSubsequences.java) |
-| 46 | [Find length of Loop](https://practice.geeksforgeeks.org/problems/find-length-of-loop/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FindLengthOfLoop.java) |
-| 47 | [Kth Smallest](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_KthSmallest.java) |
-| 48 | [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MajorityElement.java) |
-| 49 | [Smallest Positive Missing](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SmallestPositiveMissing.java) |
+| 7 | [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/1331_RankTransformOfAnArray.java) |
+| 8 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/141_LinkedListCycle.java) |
+| 9 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/144_BinaryTreePreorderTraversal.java) |
+| 10 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/145_BinaryTreePostorderTraversal.java) |
+| 11 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/160_IntersectionOfTwoLinkedLists.java) |
+| 12 | [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/1967_NumberOfStringsThatAppearAsSubstringsInWord.java) |
+| 13 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/206_ReverseLinkedList.java) |
+| 14 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/21_MergeTwoSortedLists.java) |
+| 15 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/234_PalindromeLinkedList.java) |
+| 16 | [3492. Maximum Containers on a Ship](https://leetcode.com/problems/maximum-containers-on-a-ship/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/3492_MaximumContainersOnAShip.java) |
+| 17 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/543_DiameterOfBinaryTree.java) |
+| 18 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/700_SearchInABinarySearchTree.java) |
+| 19 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/83_RemoveDuplicatesFromSortedList.java) |
+| 20 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/876_MiddleOfTheLinkedList.java) |
+| 21 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/88_MergeSortedArray.java) |
+| 22 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/94_BinaryTreeInorderTraversal.java) |
+| 23 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/1011_CapacityToShipPackagesWithinDDays.java) |
+| 24 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/102_BinaryTreeLevelOrderTraversal.java) |
+| 25 | [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/1248_CountNumberOfNiceSubarrays.java) |
+| 26 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/128_LongestConsecutiveSequence.java) |
+| 27 | [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/1358_NumberOfSubstringsContainingAllThreeCharacters.java) |
+| 28 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/142_LinkedListCycleII.java) |
+| 29 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/143_ReorderList.java) |
+| 30 | [148. Sort List](https://leetcode.com/problems/sort-list/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/148_SortList.java) |
+| 31 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/152_MaximumProductSubarray.java) |
+| 32 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/155_MinStack.java) |
+| 33 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/162_FindPeakElement.java) |
+| 34 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/199_BinaryTreeRightSideView.java) |
+| 35 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/2095_DeleteTheMiddleNodeOfALinkedList.java) |
+| 36 | [2126. Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/2126_DestroyingAsteroids.java) |
+| 37 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/238_ProductOfArrayExceptSelf.java) |
+| 38 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/424_LongestRepeatingCharacterReplacement.java) |
+| 39 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/53_MaximumSubarray.java) |
+| 40 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/74_SearchA2DMatrix.java) |
+| 41 | [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/930_BinarySubarraysWithSum.java) |
+| 42 | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/273_IntegerToEnglishWords.java) |
+| 43 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/42_TrappingRainWater.java) |
+| 44 | [Generate Grey Code Sequences](https://practice.geeksforgeeks.org/problems/generate-grey-code-sequences/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_GenerateGreyCodeSequences.java) |
+| 45 | [Unique Number I](https://practice.geeksforgeeks.org/problems/find-unique-number/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_UniqueNumberI.java) |
+| 46 | [Count Matching Subsequences](https://practice.geeksforgeeks.org/problems/find-number-of-times-a-string-occurs-as-a-subsequence3020/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_CountMatchingSubsequences.java) |
+| 47 | [Find length of Loop](https://practice.geeksforgeeks.org/problems/find-length-of-loop/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FindLengthOfLoop.java) |
+| 48 | [Kth Smallest](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_KthSmallest.java) |
+| 49 | [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MajorityElement.java) |
+| 50 | [Smallest Positive Missing](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SmallestPositiveMissing.java) |
 <!-- COMMITDSA_END -->

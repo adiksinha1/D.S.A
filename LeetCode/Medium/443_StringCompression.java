@@ -6,25 +6,30 @@
 
 class Solution {
     public int compress(char[] chars) {
-        int write = 0;
-        int read = 0;
 
-        while (read < chars.length) {
-            char current = chars[read];
+        int i = 0;
+        int j = 0;
+        int write = 0;
+
+        while (j < chars.length) {
+
             int count = 0;
 
-            while (read < chars.length && chars[read] == current) {
-                read++;
+            while (j < chars.length && chars[i] == chars[j]) {
                 count++;
+                j++;
             }
 
-            chars[write++] = current;
+            chars[write++] = chars[i];
 
             if (count > 1) {
-                for (char c : Integer.toString(count).toCharArray()) {
+                String s = Integer.toString(count);
+                for (char c : s.toCharArray()) {
                     chars[write++] = c;
                 }
             }
+
+            i = j;
         }
 
         return write;

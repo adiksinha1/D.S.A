@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 53 | 30 | 21 | 2 |
+| LeetCode | 54 | 30 | 22 | 2 |
 | GeeksforGeeks | 7 | 2 | 5 | 0 |
-| **Total** | **60** | **32** | **26** | **2** |
+| **Total** | **61** | **32** | **27** | **2** |
 
 ## Solved Problems
 
@@ -65,14 +65,15 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 48 | [443. String Compression](https://leetcode.com/problems/string-compression/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/443_StringCompression.java) |
 | 49 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/53_MaximumSubarray.java) |
 | 50 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/74_SearchA2DMatrix.java) |
-| 51 | [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/930_BinarySubarraysWithSum.java) |
-| 52 | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/273_IntegerToEnglishWords.java) |
-| 53 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/42_TrappingRainWater.java) |
-| 54 | [Generate Grey Code Sequences](https://practice.geeksforgeeks.org/problems/generate-grey-code-sequences/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_GenerateGreyCodeSequences.java) |
-| 55 | [Unique Number I](https://practice.geeksforgeeks.org/problems/find-unique-number/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_UniqueNumberI.java) |
-| 56 | [Count Matching Subsequences](https://practice.geeksforgeeks.org/problems/find-number-of-times-a-string-occurs-as-a-subsequence3020/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_CountMatchingSubsequences.java) |
-| 57 | [Find length of Loop](https://practice.geeksforgeeks.org/problems/find-length-of-loop/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FindLengthOfLoop.java) |
-| 58 | [Kth Smallest](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_KthSmallest.java) |
-| 59 | [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MajorityElement.java) |
-| 60 | [Smallest Positive Missing](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SmallestPositiveMissing.java) |
+| 51 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/80_RemoveDuplicatesFromSortedArrayII.java) |
+| 52 | [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/930_BinarySubarraysWithSum.java) |
+| 53 | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/273_IntegerToEnglishWords.java) |
+| 54 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/42_TrappingRainWater.java) |
+| 55 | [Generate Grey Code Sequences](https://practice.geeksforgeeks.org/problems/generate-grey-code-sequences/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_GenerateGreyCodeSequences.java) |
+| 56 | [Unique Number I](https://practice.geeksforgeeks.org/problems/find-unique-number/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_UniqueNumberI.java) |
+| 57 | [Count Matching Subsequences](https://practice.geeksforgeeks.org/problems/find-number-of-times-a-string-occurs-as-a-subsequence3020/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_CountMatchingSubsequences.java) |
+| 58 | [Find length of Loop](https://practice.geeksforgeeks.org/problems/find-length-of-loop/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FindLengthOfLoop.java) |
+| 59 | [Kth Smallest](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_KthSmallest.java) |
+| 60 | [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MajorityElement.java) |
+| 61 | [Smallest Positive Missing](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SmallestPositiveMissing.java) |
 <!-- COMMITDSA_END -->

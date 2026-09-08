@@ -1,11 +1,9 @@
 class Solution {
     public int findUnsortedSubarray(int[] nums) {
         int n=nums.length;
-        int s[]=new int[n];
+        int s[]=Arrays.copyOf(nums,nums.length);
         int st=n;
         int e=0;
-        for(int i=0;i<n;i++)
-        s[i]=nums[i];
         Arrays.sort(s);
         for(int i=0;i<n;i++)
         {
